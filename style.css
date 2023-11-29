@@ -32,7 +32,7 @@ body{
 }
 .text2{
     font-size: 30px;
-    color: light;
+    letter-spacing: 3px;
 }
 button{
     position: relative;
@@ -126,7 +126,7 @@ nav ul .active{
         left: 0;
     }
     .background{
-        background-image: url('');
+        
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
